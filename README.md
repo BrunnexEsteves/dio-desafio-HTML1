@@ -1,2 +1,2 @@
-# dio-desafio-HTML1
-Desafio de Projeto - HTML - 01
+# Projeto HTML
+Desafio de Projeto - HTML - Primeiros passos no HTML
